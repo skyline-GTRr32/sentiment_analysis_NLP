@@ -16,9 +16,6 @@ A practical, end-to-end Natural Language Processing (NLP) pipeline for sentiment
 
 ## 🗂️ Project Structure
 - `hands-nlp.ipynb` — Main Jupyter notebook with the full workflow
-- `IMDB Dataset.csv` — Movie reviews dataset (ensure this file is present in the project root)
-- `verify.py` — Utility script for environment and dependency checks
-
 ---
 
 ## 🛠️ Setup Instructions
